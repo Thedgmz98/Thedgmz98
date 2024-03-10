@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Tailwind & React**
 
-- 👨🏻‍💻 I’m currently a system engineering student **mid-career**
-
 - 📫 How to reach me **endoflong@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
