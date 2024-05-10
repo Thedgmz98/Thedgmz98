@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Edwin Gomez</h1>
+<h1 align="center">Hi 👋, I'm Edwin Santiago</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
 - 🌱 I’m currently learning **JavaScript, Tailwind & React**
