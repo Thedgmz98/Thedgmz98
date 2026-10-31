@@ -62,7 +62,7 @@ const ed = {
 
 | | proyecto | qué resuelve | capa | stack |
 |:-:|:--|:--|:-:|:--|
-| ◉ | **[Software-GMK](https://github.com/TU_USUARIO/Software-GMK)** | Escáner de vulnerabilidades web para pymes colombianas, basado en OWASP Top 10. En equipo con [@USUARIO_EFRAIN](https://github.com/USUARIO_EFRAIN). | `full stack` | `Next.js` `FastAPI` `Docker` |
+| ◉ | **[Software-GMK](https://github.com/TU_USUARIO/Software-GMK)** | Escáner de vulnerabilidades web para pymes colombianas, basado en OWASP Top 10. En equipo. | `full stack` | `Next.js` `FastAPI` `Docker` |
 | ◉ | **Cardio Centro** | Sitio web para una institución de salud. Proyecto con cliente real. | `front` | `Next.js` `Headless CMS` |
 | ◐ | **[CaféLab](https://github.com/TU_USUARIO/cafelab)** | Landing page con UI generada desde datos, toggle mensual/anual y FAQ con event delegation. | `front` | `HTML` `CSS` `JS` |
 | ◐ | **[Product Card Renderer](https://github.com/TU_USUARIO/product-card-renderer)** | Componentes renderizados desde un array: destructuring, spread, `.map()` y módulos ES con Vite. | `front` | `JS` `Vite` |
